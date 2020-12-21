@@ -1,0 +1,2 @@
+# TinyPNG
+TinyPNG Auto
